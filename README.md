@@ -1,6 +1,6 @@
 # ViewTourAR Server
 
-ViewTourAR is an AR mobile app for Android and IOS. This repo contains the backend code is currently deployed on AWS EBS. The link for the downloadable client-side application is located [here](https://github.com/liu-austin/TourViewARClient_alpha).
+ViewTourAR is an AR mobile app for Android and IOS. This repo contains the backend code is currently deployed on AWS EBS. The link for the downloadable client-side application is located [here](https://github.com/aaronsomo/tourviewar-client).
 
 ## Technologies
 
@@ -11,8 +11,8 @@ The backend server was built with Node.js, Express, PostgreSQL, and deployed usi
 ## Installation
 
 ```sh
-git clone https://github.com/liu-austin/TourViewARServer_alpha
-cd tourViewARServer_alpha
+git clone https://github.com/aaronsomo/tourviewar-server
+cd tourviewar-server
 npm install
 npm start
 ```
